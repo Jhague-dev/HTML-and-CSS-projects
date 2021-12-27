@@ -8,7 +8,7 @@
 	<a href="https://youtu.be/uON_08RFCyE">This is a dog video</a>
 <nav>
 	<a href="HTML_exercise.html">Home</a>
-	<a href="husky-dog.jpg">Dog picture</a>
+	<a href="file:husky-dog.jpg">Dog picture</a>
 	<a href="https://youtu.be/uON_08RFCyE">Dog Video</a>
 </nav>
 
