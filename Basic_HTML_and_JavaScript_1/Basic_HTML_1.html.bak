@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<body>
+<font color="blue" face="Arial" size="3"><p>This is the first paragraph of colored text. Notice how this text is blue, although there is no specific reason why this color was chosen. 
+One could ask why, and would only receive an answer within the fullness of time. What I'm basically saying here, is not to ask WHY I chose blue.</p></font>
+<font color="#BFA9A9" face="Arial" size="4"><p><b>This</b> is the <i>second</i> paragraph of <u>colored text</u>. Much like the first paragraph, there is no reasoning behind the color chosen.
+Also like the first paragraph, asking will only get you an answer within the fullness of time.</p></font>
+<img sc="C:\Users\for4ks\Pictures\compy.jpg" alt="oops, no compy">
+</body>
+<script src="Basic_JavaScript_1.js">
+</script>
+</html>
