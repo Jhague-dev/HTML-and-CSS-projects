@@ -15,9 +15,9 @@
 		<p>read the heading</p>
 		</main>
 	<nav>
-	<a href="file:HTML_exercise.html">Home</a>
-	<a href="file:husky-dog.jpg">Dog picture</a>
-	<a href="file:Dog_video.html">Dog Video</a>
+	<a href="HTML_exercise.html">Home</a>
+	<a href="husky-dog.jpg">Dog picture</a>
+	<a href="Dog_video.html">Dog Video</a>
 	</nav>
 		<img src=C:\Users\for4ks\Pictures\compy.jpg>
 		<footer>this is a compsognathus</footer>
