@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+	.My_style {
+	  background-color: darkblue;
+	  color: white;
+	  text-decoration: italic;
+	  font-size: medium;
+	  }
+</style>
+<p1 class="My_style"> this is green text!</p1>
+<p2 class="My_style">And this is not yellow"</p2>
+</body>
+</html>
